@@ -1,4 +1,4 @@
-# bright
+# Awesome Font
 
 A new Flutter project.
 
